@@ -10,5 +10,7 @@ for i in range(money):
                 print("stop")
             else:
                 print("продолжаем покупки")
+                khvtdreW
+                
 
 
