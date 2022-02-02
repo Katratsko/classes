@@ -11,6 +11,7 @@ for i in range(money):
             else:
                 print("продолжаем покупки")
                 khvtdreW
+                jj
                 
 
 
